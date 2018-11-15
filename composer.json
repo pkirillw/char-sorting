@@ -1,12 +1,12 @@
 {
-    "name": "pkirillw/charSorting",
+    "name": "pkirillw/char-sorting",
     "type": "library",
     "description": "Класс для сортировка букв в слове. (Тестовое задание SimUni)",
     "keywords": [
         "pkirillw",
-        "charSorting"
+        "char-sorting"
     ],
-    "homepage": "https://github.com/pkirillw/charSorting",
+    "homepage": "https://github.com/pkirillw/char-sorting",
     "license": "MIT",
     "authors": [
         {
